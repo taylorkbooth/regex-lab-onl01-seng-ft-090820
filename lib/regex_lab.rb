@@ -7,7 +7,7 @@ if word.match(/^[AEIOU]|^[aeiou]/)
 end
 
 def words_starting_with_un_and_ending_with_ing(text)
-  text.
+  text.scan(/ing/)
 
 end
 
