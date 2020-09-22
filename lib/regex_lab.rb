@@ -13,7 +13,7 @@ end
 
 def words_five_letters_long(text)
   text.split(" ")
-  text.
+  text.grep
 
 end
 
